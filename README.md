@@ -1,14 +1,11 @@
 # Hi there!
 
-My name is Holger.
-- I'm a software engineering manager in the PLM (Product Lifecycle Management) domain
-- I'm interested in C++, Python, IOT, Machine Learning and Robotics.
-- Currently (2021) I'm in the UDACITY Robotics Software Engineer ND Program.
+I'm a delivery lead/manager in larger Tech Consulting company where I support my clients in implementing, renewing and cloudifcation of their engineerign platforms, mainly focussing on product Liefecycle Management (PLM) systems as core of engineering.
+This is my private GitHub account without direct relation to my daily work.
 
-- Open to exchange knowledge!
+My interests are
+- C/C++ development, recently started with embedded systems
+- Python development (as it is the easiest way to get into AI development)
+- 3D printing
 
-
-<!---
-SAHOWI/SAHOWI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Successfully finished the UDACITY Robotics Software Engineer ND Program.
