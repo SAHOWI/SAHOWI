@@ -1,7 +1,7 @@
 # Hi there!
 
-I'm a delivery lead/manager in larger Tech Consulting company where I support my clients in implementing, renewing and cloudifcation of their engineerign platforms, mainly focussing on product Liefecycle Management (PLM) systems as core of engineering.
-This is my private GitHub account without direct relation to my daily work.
+I'm a delivery lead/manager in larger Tech Consulting company where I work with my clients in implementing, renewing and cloudifcation of their engineerign platforms, mainly focussing on product Liefecycle Management (PLM) systems as core of engineering.
+This is my private GitHub account without relation to my daily/company work.
 
 My interests are
 - C/C++ development, recently started with embedded systems
